@@ -1,0 +1,322 @@
+{
+    "aldous": {
+        "damage_type": "Physical/Burst",
+        "weak_against": "Ranged heroes or those that can sustain the damage. Usually, it is countered with a ranged hero.",
+        "counter_heroes": ["Esmeralda", "Cici", "Lukas"],
+        "counter_items": ["Antique Cuirass", "Dreadnaught Armor", "Twilight Armor"],
+        "gameplay": "Last hit minions or kills. Combo is use the 2nd skill for stun, then 1st skill for the high damage. Ult for vision is better for 5 man."
+    },
+
+    "alice": {
+        "damage_type": "Magic/Tanky Sustain",
+        "weak_against": "Anti-heal items and heroes. Also, out-sustain or burst Alice.",
+        "counter_heroes": ["Chou", "Aldous", "Baxia", "Kaja"],
+        "counter_items": ["Dominance Ice", "Glowing Wand", "Sea Halberd", "Radiant Armor"],
+        "gameplay": "Sustain by passive which needs to hit a minion/hero twice. Combo is first skill, ultimate, first skill. Can also ultimate immediately then flicker. Sustain by standing with passive against a lot of minions/heroes."
+    },
+
+    "alpha": {
+        "damage_type": "True Damage/Physical Sustain",
+        "weak_against": "Continuous anti-heal, heavy crowd control, and kiting. Do not get hit by ult.",
+        "counter_heroes": ["Freya", "Thamuz", "Baxia", "Minsitthar"],
+        "counter_items": ["Dominance Ice", "Sea Halberd", "Antique Cuirass"],
+        "gameplay": "Relies heavily on spell vamp and true damage. His combo is Skill 2 to poke/heal, Ultimate to initiate/knock up, followed immediately by Skill 1. Strong snowball potential."
+    },
+
+    "argus": {
+        "damage_type": "Physical/Critical Attack Speed",
+        "weak_against": "Hard crowd control, ranged that he can't lifesteal to, and burst damage right after his ultimate ends. Do not hit during ult to not increase its duration.",
+        "counter_heroes": ["Ruby", "Uranus", "Gatotkaca", "Esmeralda"],
+        "counter_items": ["Dominance Ice", "Antique Cuirass", "Blade Armor"],
+        "gameplay": "Relies entirely on his Ultimate to stay immortal for a few seconds while healing from damage dealt. Try to hit second skill to stun opponent then use the skill 1 to damage, then skill 2 to dash out. Use ult if very low only, then try to get hit during ult to increase its duration."
+    },
+
+    "arlott": {
+        "damage_type": "Physical/Burst Dash CC",
+        "weak_against": "Heavy continuous crowd control and tanky heroes who can block his visibility gaze.",
+        "counter_heroes": ["Minsitthar", "Phoveus", "Lukas"],
+        "counter_items": ["Antique Cuirass", "Dominance Ice"],
+        "gameplay": "Relies on its passive dash. If you see mark from Arlott, better run or stun if you can."
+    },
+
+    "badang": {
+        "damage_type": "Physical/Wall Burst CC",
+        "weak_against": "Do not get hit by its 2nd skill, the one with the wall. Constantly be not near the wall, since if Badang punched you into the wall, you get stunned for a bit.",
+        "counter_heroes": ["Esmeralda", "Phoveus", "Belerick"],
+        "counter_items": ["Antique Cuirass", "Twilight Armor", "Warrior Boots"],
+        "gameplay": "Always bring fights near the wall so you can stun the enemy. Use all skills to stun."
+    },
+
+    "balmond": {
+        "damage_type": "Physical/Continuous AOE",
+        "weak_against": "Knockbacks, silences, and interrupts that cancel his spin animation.",
+        "counter_heroes": ["Cici", "Xborg", "Dyrroth", "Alpha"],
+        "counter_items": ["Antique Cuirass", "Dominance Ice"],
+        "gameplay": "2nd skill for fast clear, hit enemies with 1st skill to cc for a bit. Use ultimate for finishing."
+    },
+
+    "bane": {
+        "damage_type": "Hybrid/Physical or Magic Burst",
+        "weak_against": "Early game burst and sustain high HP heroes.",
+        "counter_heroes": ["Chou", "Paquito", "Yu Zhong"],
+        "counter_items": ["Antique Cuirass", "Athena's Shield", "Radiant Armor"],
+        "gameplay": "Skill 1 bounces off enemies and minions, the more bounce the higher the damage. Second skill heal is insane if magic build. Every use of skill, you proc its passive which is an extra enhanced basic attack."
+    },
+
+    "benedetta": {
+        "damage_type": "Physical/Burst Dash",
+        "weak_against": "Totally suppress its dashing power. Someone with high mobility also that could catch up.",
+        "counter_heroes": ["Minsitthar", "Phoveus"],
+        "counter_items": ["Antique Cuirass", "Twilight Armor"],
+        "gameplay": "Use second skill to immune stun perfectly to reflect the stun back. Always charge passive."
+    },
+
+    "chou": {
+        "damage_type": "Physical/Burst Combo CC",
+        "weak_against": "High mobility, and tanky heroes. Force to miss its first skill, Chou is highly reliant on combo. If the skill 1 didn't hit, he can't combo kill you.",
+        "counter_heroes": ["Khufra", "Phoveus", "Esmeralda", "Minsitthar"],
+        "counter_items": ["Antique Cuirass", "Queen's Wings", "Warrior Boots"],
+        "gameplay": "Try to hit the third animation of skill 1 so you can combo. Learn tiktok moves."
+    },
+
+    "cici": {
+        "damage_type": "Physical/Continuous Kiting",
+        "weak_against": "High sustain and tanky heroes. Constantly be out of range of its skill 1, since Cici is reliant to this.",
+        "counter_heroes": ["Arlott", "Yu Zhong", "Thamuz"],
+        "counter_items": ["Antique Cuirass", "Dominance Ice"],
+        "gameplay": "Uses Skill 1 poke heroes and get spell vamp. Bounce on a minion or hero using skill 2 to dash for longer. Use ult if they group up."
+    },
+
+    "dyrroth": {
+        "damage_type": "Physical/Burst Dash",
+        "weak_against": "Heavy cc or ranged heroes since Dyrroth fluorish on spell vamp so you need to not let his passive fill.",
+        "counter_heroes": ["Thamuz", "Benedetta", "Bane", "Ruby", "Phoveus"],
+        "counter_items": ["Antique Cuirass", "Dominance Ice"],
+        "gameplay": "Strong early game, can go toe to toe to almost anyone. Try to hit 2nd skill and 1st skill before ult to reduce defense."
+    },
+
+    "edith": {
+        "damage_type": "Hybrid/Physical Tank - Magic MM",
+        "weak_against": "Vengeance or any reflective damage to its ulti - turned mm. Also, need to be ranged as it's highly reliant on 1st and 2nd skill which can be used on close ranges only.",
+        "counter_heroes": ["Lolita", "Minsitthar", "Hylos"],
+        "counter_items": ["Athena's Shield", "Radiant Armor", "Dominance Ice"],
+        "gameplay": "Charge her passive and use her ulti. This marksman form is in magic damage, and can have spell vamp as well."
+    },
+
+    "esmeralda": {
+        "damage_type": "Magic/Sustain",
+        "weak_against": "Anti-shield heroes and those that can out-sustain Esmeralda.",
+        "counter_heroes": ["Dyrroth", "Baxia", "Thamuz"],
+        "counter_items": ["Dominance Ice", "Sea Halberd", "Oracle"],
+        "gameplay": "2nd skill to hit multiple heroes in order to steal their shield. Then use 1st skill, to proc this shield. Ultimate can be used for escape and not for engages only - can stun for a bit on affected heroes."
+    },
+
+    "freya": {
+        "damage_type": "Physical / High-Sustain Attack Speed",
+        "weak_against": "Long ranged heroes and hard cc. Most damage fighters like Freya depend on melee so stunning them for long so they won't lifesteal is bad for them.",
+        "counter_heroes": ["Phoveus", "Minsitthar", "Edith", "Guinevere"],
+        "counter_items": ["Dominance Ice", "Antique Cuirass", "Blade Armor"],
+        "gameplay": "2nd skill has limited charges, can be used for catching up on enemies together with 1st skill, which has knock up. Ultimate is to dive into enemy terittory. Best to target non-cc heroes so they won't interrupt your basic attacks and skills."
+    },
+
+    "gatotkaca": {
+        "damage_type": "Magic/Counter CC",
+        "weak_against": "Tanky, so just sustain on lane. Weak on laning so you can cut minions if Gatot exp is your opponent, so you can backup your mid always.",
+        "counter_heroes": ["X.Borg", "Dyrroth", "Uranus"],
+        "counter_items": ["Endless Battle", "Starlium Scythe", "Sea Halberd"],
+        "gameplay": "Best against marksman or low input damage - attack speed heroes. Charge your rage to proc the passive. There is no combos, use second to cc enemy. Try to hit ult much later onto team fight so dashes are exhausted already."
+    },
+
+    "gloo": {
+        "damage_type": "Magic/Tanky CC",
+        "weak_against": "Heroes that benefit from hitting multiple targets simultaneously.",
+        "counter_heroes": ["Alice", "Ruby", "Yu Zhong"],
+        "counter_items": ["Radiant Armor", "Athena's Shield", "Courage Boots"],
+        "gameplay": "Spam 1st and 2nd skill to stun enemies for a bit. Try to be on top of everyone so you can activate your ult easily."
+    },
+
+    "guinevere": {
+        "damage_type": "Magic/Burst CC",
+        "weak_against": "Purify spell, CC-immune skills, and magic armor.",
+        "counter_heroes": ["Chou", "Benedetta", "Martis", "Minsitthar"],
+        "counter_items": ["Athena's Shield", "Radiant Armor", "Oracle"],
+        "gameplay": "Highly dependent on hitting Skill 2 or filling up the flower passive to knock up opponent into ult even without hitting Skill 2. Best played with Grock or Kalea, anyone that can knock up enemies."
+    },
+
+    "hilda": {
+        "damage_type": "Physical/Hybrid Sustain and Damage",
+        "weak_against": "Out-sustain or those with anti-cc pokes. High mobility is also a good addition.",
+        "counter_heroes": ["Dyrroth", "Uranus", "Carmilla"],
+        "counter_items": ["Sea Halberd", "Glowing Wand"],
+        "gameplay": "Use skill 1 to speed up and heal on bush. Use Ulti before killing or assisting a kill for stacks."
+    },
+
+    "jawhead": {
+        "damage_type": "Physical/Single Target Burst CC",
+        "weak_against": "CC immune ult or its second skill. Do not let Jawhead catch up to you and combo you. Buy high armor to resist burst damage.",
+        "counter_heroes": ["Sun", "Gloo", "Chou"],
+        "counter_items": ["Antique Cuirass", "Dreadnaught Armor"],
+        "gameplay": "Skill 1 is high damage, you can fast clear minions to back up on other lanes or objectives. 2nd skill first then ult, then click 2nd again to toss them up."
+    },
+
+    "julian": {
+        "damage_type": "Magic/Burst and CC",
+        "weak_against": "Dash or magic armor. You can also time Julian's skills since when the 3 skills are used, the cooldown is around 6s and is vulnerable for that time period.",
+        "counter_heroes": ["Guinevere", "Minsitthar", "Silvanna"],
+        "counter_items": ["Athena's Shield", "Radiant Armor", "Oracle"],
+        "gameplay": "Enhanced skill would be the third one. 1st, 3rd then 2nd for dash to escape. For CC, 1st, 2nd and 3rd to knock up enemies using 3rd."
+    },
+
+    "khaleed": {
+        "damage_type": "Physical/Tanky Sustain",
+        "weak_against": "Stun if healing. Do not let him fill his passive so he can't constantly poke you.",
+        "counter_heroes": ["Phoveus", "Marcel", "Khufra"],
+        "counter_items": ["Dominance Ice", "Sea Halberd"],
+        "gameplay": "Skill 1 with enhanced basic attack to clear minion wave. Ult + flicker is the usual combo, try to hit a lot in your 1st skill to recharge it fully again after the combo."
+    },
+
+    "lapu-lapu": {
+        "damage_type": "Physical/AOE High Damage",
+        "weak_against": "Kiting and range. Do not 1v1 as Lapu is strong in lane. Do not let him scale faster as he falls off late game.",
+        "counter_heroes": ["Esmeralda", "Kaja"],
+        "counter_items": ["Dominance Ice", "Glowing Wand"],
+        "gameplay": "Fill up passive by letting his skills hit enemies or minions. Proc passive to poke opponent in lane and ult has high burst damage."
+    },
+
+    "lukas": {
+        "damage_type": "Physical/Damage and Sustain",
+        "weak_against": "Long-ranged attacks and dashy heroes.",
+        "counter_heroes": ["Baxia", "Dyrroth", "Minsitthar", "Alpha"],
+        "counter_items": ["Dominance Ice", "Sea Halberd"],
+        "gameplay": "Relies heavily on hitting his skills to proc his ultimate and even the second form of his 1st skill. Try to hit all your skills to gain additional skills and spell vamp. Strong in 1v1."
+    },
+
+    "martis": {
+        "damage_type": "Physical/Damage CC",
+        "weak_against": "Interruption of his skills or when it's on cooldown. High armor that resist burst physical damage.",
+        "counter_heroes": ["Minsitthar", "X-borg", "Phoveus"],
+        "counter_items": ["Antique Cuirass", "Dominance Ice", "Sea Halberd"],
+        "gameplay": "Use second for cc immune. Try to time his 1st and 2nd and most likely you do not do the third animation on second skill to lessen its CD. Passive is stacks gotten from usage of skills."
+    },
+
+    "masha": {
+        "damage_type": "Physical/Burst",
+        "weak_against": "CC so she can't basic attack. Highly dependent on attack speed and lifesteal so life-draining items and heroes.",
+        "counter_heroes": ["Sun", "Argus", "Ruby"],
+        "counter_items": ["Antique Cuirass", "Chastise Pauldron", "Dominance Ice"],
+        "gameplay": "Focus on hitting continuous basic attack so you attack later in the fight. Has 3 bars of HP, try to maintain it at 2 or 3 bars. Do not engage with 1 bar of HP since she is squishy at that point."
+    },
+
+    "minsitthar": {
+        "damage_type": "Physical/Attack Speed CC",
+        "weak_against": "Highly dependent on hitting Skill 1 and Skill 2 - try to dodge skill 2. Uses basic attack for majority of damage, use anti-attack speed or reflect basic attack damage.",
+        "counter_heroes": ["Baxia", "X.Borg", "Argus"],
+        "counter_items": ["Chastise Pauldron", "Blade Armor"],
+        "gameplay": "Try to use Skill 2 for poking and try to hit the last attack animation for stun. Use Skill 1 for hooking, better combo is Ult - to remove dash, then Skill 1 to hook into your ult."
+    },
+
+    "paquito": {
+        "damage_type": "Physical/Burst CC",
+        "weak_against": "Long range heroes since skills are short ranged. Try to dodge all bushes since he relies on burst assassin type gameplay.",
+        "counter_heroes": ["Esmeralda", "Phoveus", "Minsitthar", "Khufra"],
+        "counter_items": ["Antique Cuirass", "Dreadnaught Armor"],
+        "gameplay": "Try to maintain stack at 2 or 3 so it will CD reset its skills. Try to learn which stack can its Ult knock up or burst. Use either on right occasions."
+    },
+
+    "phoveus": {
+        "damage_type": "Magic/Tanky CC",
+        "weak_against": "Bad against ranged heroes that can poke him. CC also that interrupts his 2nd skill animation can nerf him bad such as Valir, Aurora, and Vexana.",
+        "counter_heroes": ["X.Borg", "Alpha", "Esmeralda (?)"],
+        "counter_items": ["Dominance Ice", "Glowing Wand", "Sea Halberd"],
+        "gameplay": "His kit relies on Ultimate mostly. Combo is Enhanced Basic Attack an enemy then ult. 1st then 2nd skill, then Ult. Then finally, enraged 1st then Ult. Hit multiple heroes using Skill 2."
+    },
+
+    "ruby": {
+        "damage_type": "Physical/Lifesteal CC",
+        "weak_against": "Bad against ranged heroes that can poke her also. Those that can push her away making her spell vamp useless can nerf her. You can also dash away on her skills since she is reliant on spell vamp mostly and CC on skills.",
+        "counter_heroes": ["Phoveus", "Arlott", "X.Borg"],
+        "counter_items": ["Dominance Ice", "Sea Halberd"],
+        "gameplay": "Strong in spell vamp, so hit Skill 1 to as enemy entities as possible. Combo is Skill 1 to slow, Skill 2 to close up, then Ult to pull them back. You can delay the dash animation on every skill, perfect for setting a surprise dash in or out."
+    },
+
+    "silvanna": {
+        "damage_type": "Magic/Single Target Damage",
+        "weak_against": "Her stun on Skill 2 and lockdown on Ult is her kit. Dodge both and you'll be good. Also, try to stun to interrupt Skill 2 animation. Ult can be easily dashed out of range.",
+        "counter_heroes": ["Barats", "Edith", "Benedetta", "Masha"],
+        "counter_items": ["Athena's Shield", "Radiant Armor", "Dominance Ice"],
+        "gameplay": "Best for locking 1 hero carry. Use Ult to lock down damage dealer, Skill 1 to stun and Skill 2 for continuous damage."
+    },
+
+    "sora": {
+        "damage_type": "Physical/Continuous Damage and CC",
+        "weak_against": "Hard to target Skill 1 so dodge Skill 1. If fail to dodge, you can lockdown him since he fluorishes on team fights. Interruption on skill also throws his combos off.",
+        "counter_heroes": ["Lukas", "Baxia"],
+        "counter_items": ["Queen's Wings", "Antique Cuirass"],
+        "gameplay": "Try to hit his skills on enemy. You can choose to be offensive or the cloud form ult to set up enemies in the backline and drag them closer to your allies."
+    },
+
+    "sun": {
+        "damage_type": "Physical/Attack Speed Push",
+        "weak_against": "AOE damage heroes that can clear his clones. If you are experienced, you can know which is the real Sun and target him since he is built to be squishy and not for 1v1. Heavily relies on his clones.",
+        "counter_heroes": ["Ruby", "Alucard", "Aldous (for stacks)"],
+        "counter_items": ["Blade Armor", "Dominance Ice", "Antique Cuirass"],
+        "gameplay": "Skill 1 is not solely for poking, it's for positioning also on potential fight. Skill 2 to dash closer to the enemy, and use Ult if clones are not dead and in position for dive. You can also split push in late game since you can Skill 2 out or can use clones to finish any 1v1 that defends the lane you're pushing."
+    },
+
+    "terizla": {
+        "damage_type": "Physical/CC",
+        "weak_against": "Poke Terizla by ranged heroes or outsustain him like Alpha. Long ranged mainly counters Terizla since his skills are short ranged.",
+        "counter_heroes": ["X.Borg", "Alpha"],
+        "counter_items": ["Malefic Gun", "Armor-piercing items", "High mobility items"],
+        "gameplay": "Semi bruiser, use ult for melee heroes so you can isolate them in that area. Do not pick if any long ranged heroes can shoot you from afar before you complete your Skill 2. Hit the final slash on your Skill 2 as it hits the hardest."
+    },
+
+    "thamuz": {
+        "damage_type": "True Damage/Pure Auto-Attack Sustain",
+        "weak_against": "Use long range or dashy heroes. Since Thamuz fluorishes on close range fights, try not to get hit my Skill 1 as it will drag you closer to him.",
+        "counter_heroes": ["Cici", "X.Borg", "Baxia"],
+        "counter_items": ["Dominance Ice", "Sea Halberd", "Antique Cuirass"],
+        "gameplay": "Dominate 1v1 basic attack fights. Try to put Skill 1 behind enemy to pull them close to you. Use Skill 2 to reposition, pop ult if you are sure that the opponent has no dash for a period of time and you can basic attack melee heroes in their face."
+    },
+
+    "uranus": {
+        "damage_type": "Magic/Tanky Heal",
+        "weak_against": "Explosive single-target burst, continuous anti-heal, and true damage.",
+        "counter_heroes": ["Dyrroth", "Baxia"],
+        "counter_items": ["Dominance Ice", "Sea Halberd", "Glowing Wand"],
+        "gameplay": "Try to get hit from minions, jungle monsters, enemies, or even tower to stack passive. Skill 2 has pop animation after casting for a few seconds after, has good damage. Skill 1 is its main damage. Use Ult just to continue the stacks passive."
+    },
+
+    "xborg": {
+        "damage_type": "True Damage/Continuous Burst",
+        "weak_against": "Burst his shield/armor makes X.Borg a lot more vulnerable. Ult is easily dodgeable. Do not stand in between his Skill 2, as he can drag you close. You can also deny him his battery so it takes more time to charge his broken shield/armor.",
+        "counter_heroes": ["Paquito", "Yu Zhong", "Arlott"],
+        "counter_items": ["Antique Cuirass", "Twilight Armor"],
+        "gameplay": "Best to do in 1v1 on melee is to spam Skill 1 and try to put Skill 2 behind enemy to grab them closer. Use Ult only when someone CC a lot of heroes. Do not use ult without any stunned enemies - you'll miss."
+    },
+
+
+    "yin": {
+        "damage_type": "Physical/Continuous Damage",
+        "weak_against": "Interrupt his Ult animation as it takes long for it to activate. Can use clones, or spawns when it ults.",
+        "counter_heroes": ["Esmeralda", "Uranus", "Khaleed"],
+        "counter_items": ["Winter Crown", "Queen's Wings", "Antique Cuirass"],
+        "gameplay": "Pick when the carry is immobile and can't escape or interrupt your ult animation. Use Skill 1 for movement speed, Skill 2 to close onto enemy then Ult. Use Skill 1 when inside Ult. His passive deals 120% damage when no ally is close."
+    },
+
+    "yu zhong": {
+        "damage_type": "Physical/Spell Vamp CC",
+        "weak_against": "True Damage raned heroes or CC that can interrupt him for spell vamp and skills.",
+        "counter_heroes": ["Cici", "Masha", "Paquito"],
+        "counter_items": ["Dominance Ice", "Sea Halberd", "Antique Cuirass"],
+        "gameplay": "Fill his passive by hitting your enemy with Basic Attack or skills. Skill 1 is for poking and stacking passive. Usual combo is Skill 2 - Petrify - Skill 1 and Ult. When Ult, you can cancel early if you reach the backline already. Can also use to stack passive since he is CC immune in dragon form."
+    },
+
+    "zilong": {
+        "damage_type": "Physical/Split Push Assassin",
+        "weak_against": "Early lane freeze, ranged heroes, and CC to interrupt his lifesteal.",
+        "counter_heroes": ["Jawhead", "Gatot", "Hylos"],
+        "counter_items": ["Blade Armor", "Antique Cuirass", "Dominance Ice"],
+        "gameplay": "For early just farm minions do not fight. You can split push late game, use Ult to escape. Usual combo is Ult to close on enemies, Skill 2 to dash in and Skill 1 for CC. Try to last hit using Skill 2 so it resets cooldown. Do not initiate, play like an assassin that clears enemies when spells and skills such as CC are exhausted."
+    }
+}
